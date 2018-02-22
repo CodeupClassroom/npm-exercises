@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CodeupClassroom/npm-exercises/issues"
   },
-  "homepage": "https://github.com/CodeupClassroom/npm-exercises#readme"
+  "homepage": "https://github.com/CodeupClassroom/npm-exercises#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0"
+  }
 }
