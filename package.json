@@ -1,0 +1,19 @@
+{
+  "name": "npm-exercises",
+  "version": "1.0.0",
+  "description": "repo for npm-exercises for git remote add origin git@github.com:CodeupClassroom/npm-exercises.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeupClassroom/npm-exercises.git"
+  },
+  "author": "Ryan Orsinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeupClassroom/npm-exercises/issues"
+  },
+  "homepage": "https://github.com/CodeupClassroom/npm-exercises#readme"
+}
