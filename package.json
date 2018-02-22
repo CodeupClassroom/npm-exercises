@@ -4,7 +4,8 @@
   "description": "repo for npm-exercises for git remote add origin git@github.com:CodeupClassroom/npm-exercises.git",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
